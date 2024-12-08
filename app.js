@@ -41,4 +41,6 @@ async function run(){
         .toArray();
     console.log('userData', userData);
 
+}
+
 run();
